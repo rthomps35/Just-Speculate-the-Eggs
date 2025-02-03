@@ -1,5 +1,8 @@
 # Local Game Jam 2025: Bubble
 
+## NOTE TO FUTURE READERS
+This was my design document I used during the Jam. I'm leaving this as is for anyone who wants to see what the questions I was asking myself. I hope my horrible notes help you on any projects you have.
+
 ## Constraints
 1. 5-10 minutes average play time
 2. Sounds are all made by me, using my awful voice
@@ -57,11 +60,8 @@ I'll see if I can add this. I think the best way of doing this is to go into deb
 
 ### Normal
 * Nothing could be more normal in the Egg market! - 01 (First)
-* 
 * Goblins raid multiple coops, [egg] prices set to increase. -02
-
 * China increases target for [egg] in 5-Year Plan. Prices to decrease. -03
-
 * Celebrity share's lifestyle: "I wake up every day and open palm slam an [egg] into the VCR. Then I lift" -04
 * Hot new scrambled {ImpactedCommodity.CommodityName} recipe takes nation by storm. -05
 * No one wants {ImpactedCommodity.CommodityName} anymore. Millennials and Zoomers to blame. -06
@@ -73,9 +73,6 @@ I'll see if I can add this. I think the best way of doing this is to go into deb
 * Silicon Valley newest craze is Eggs on the blockchain -14
 * A lotta yall still dont get it. You can use multiple slurp juices on a single egg -15
 * This can't be sustainable, in this 300 post thread I... -16
-
-
-
 
 ### Collapse
 
